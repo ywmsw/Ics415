@@ -15,17 +15,8 @@ This is a simple Java program that generates an image with three spheres (red, b
 3. **Run the Program**:
    - Run this command to create the image:
      ```bash
-     java RayTracing
+     java SimpleRayTracing
      ```
 
 4. **Check the Output**:
    - The program saves an image called `image.png` in the same folder. Open it to see the spheres.
-
-## Example
-The output image will look like this:
-
-![Image](image.png)
-
----
-
-This version is more beginner-friendly and focuses on just the essentials. Let me know if this works!
