@@ -24,7 +24,7 @@ This is a simple Java program that generates an image with three spheres (red, b
 ## Example
 The output image will look like this:
 
-![OutpImage](image.png)
+![Image](output_image.png)
 
 ---
 
